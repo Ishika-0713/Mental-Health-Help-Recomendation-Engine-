@@ -48,7 +48,7 @@ def main():
     choice = st.sidebar.selectbox("Menu",menu)
     
     
-    df = load_data("C:/Users/Kartik Mathur/OneDrive/Desktop/ISHIKA/Mental-Health-Help-Recomendation-Engine--main/mdh-1.csv")
+    df = load_data("../mdh-1.csv")
     
     def make_clickable(link):
         # target _blank to open new window
