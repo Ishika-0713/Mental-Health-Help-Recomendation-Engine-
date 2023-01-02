@@ -3,7 +3,7 @@ This  is a mental health recommendation website I made using cosine similarity a
 To run the alter.py file, run the following command in the terminal:
 
 ```
-streamlit run alter.py
+streamlit run app.py
 ```
 
 This will open the Mental Health Help website.
