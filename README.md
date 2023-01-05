@@ -1,6 +1,6 @@
-This  is a mental health recommendation website I made using cosine similarity algorithm and streamlit.
+This is a mental health articles recommendation website I made using matrix factorization algorithm and Streamlit.
 
-To run the alter.py file, run the following command in the terminal:
+To run the app.py file, run the following command in the terminal:
 
 ```
 streamlit run app.py
