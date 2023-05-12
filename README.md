@@ -1,4 +1,4 @@
-This is a mental health articles recommendation website I made using matrix factorization algorithm and Streamlit.
+This is a mental health articles recommendation website I made using matrix factorization algorithm in Python and Streamlit.
 
 To run the app.py file, run the following command in the terminal:
 
